@@ -1,4 +1,5 @@
-![logo](http://google.github.io/flatbuffers/fpl_logo_small.png) FlatBuffers
+![logo](http://google.github.io/flatbuffers/fpl_logo_small.png) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffromchi%2Fflatbuffers.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffromchi%2Fflatbuffers?ref=badge_shield)
+FlatBuffers
 ===========
 
 ![Build status](https://github.com/google/flatbuffers/actions/workflows/build.yml/badge.svg?branch=master)
@@ -78,3 +79,6 @@ Please see our [Security Policy](SECURITY.md) for reporting vulnerabilities.
    [stackoverflow.com]: http://stackoverflow.com/search?q=flatbuffers
    [landing page]: https://google.github.io/flatbuffers
    [LICENSE]: https://github.com/google/flatbuffers/blob/master/LICENSE
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffromchi%2Fflatbuffers.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffromchi%2Fflatbuffers?ref=badge_large)
